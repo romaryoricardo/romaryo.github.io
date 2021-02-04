@@ -1,10 +1,10 @@
 ---
-title: Desligando e Ligando máquinas na AWS automaticamente
+title: Reduzindo custos na AWS com Start e Stop de instâncias
 author: Romaryo Ricardo
 date: 2021-02-03 23:30:00 +0300
 categories: [Blogging, "AWS"]
 tags: ["AWS"]
-toc: false
+toc: true
 pin: false
 ---
 
@@ -28,6 +28,15 @@ Espero muito que o conteúdo te ajude a ir mais além na sua carreira e alcança
 
 Fala Pessoal,
 
-nesse post vamos falar de uma das forma de economizar $$$$ na AWS.
+Nesse post vamos falar de uma forma de economizar 💰💰 na AWS. (Economizar é sempre bom 😁)
 
-Sabe aquelas máquinas utlizada para desenvolvimento e homologação, e durante a noite não está em uso?
+Sabe aquelas máquinas utlizada para desenvolvimento e homologação? Normalmente a noite e fins de semana elas não são utilizadas, e gera um custo que pode ser facilmente evitado.
+
+Usar o seu ambiente em cloud te dá a flexibilidade de parar seus recursos e não ser cobrado por eles, e levando isso em consideração, vou te mostrar uma forma de automatizar o stop e start programado dessas instâncias, assim o estagiário não precisa fazer isso todos os dias hahaha
+<br>
+Então vamos lá ...
+<br>
+
+
+
+

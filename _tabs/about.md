@@ -12,11 +12,11 @@ order: 5
 
  E vamos falar um pouco de mim ... 
 
-Meu nome é Romaryo Ricardo, e sou um Jovem apaixonado por tecnologia, sempre gostei de coisas inovadoras que ajudassem as pessoas, a partir dessa paixão comecei minha jornada estudando Redes de Computadores, aprendi bastante de infraestrutura e acabei me tornando um sysadmin louco pela telinha preta por linux.
+Meu nome é Romaryo Ricardo, e sou apaixonado por tecnologia, sempre gostei de coisas inovadoras que ajudassem as pessoas, a partir dessa paixão comecei minha jornada estudando Redes de Computadores, aprendi bastante de infraestrutura e acabei me tornando um sysadmin louco pela telinha preta por linux.
 
-Apesar de trabalhar com Infra, sempre gostei de Codar, achava muito bom criar scripts e automações, criar formas de fazer as coisas acontecerem da forma mais eficiente (com qualidade e velocidade).
+Apesar de trabalhar com Infra, sempre gostei de Codar, achava muito bom criar scripts e automações, criar formas de fazer as coisas acontecerem da forma mais eficiente.
 
-Então foi ai que conheci a cultura DevOps, que casou bem com a minha soft skill.
+Então foi ai que conheci a cultura DevOps, que casou bem com as minhas soft skills.
 
 Então resumindo ... <br>
 Hoje eu sou um **DevOps Engineer** que tenta todos os dias melhorar os processos procurando sempre soluções inovadoras.
@@ -28,6 +28,9 @@ Hoje eu sou um **DevOps Engineer** que tenta todos os dias melhorar os processos
 - 💻 Possuindo quase 10 anos de experiência na área de TI.
 
 ---
+<div>
+<h2 align='center'><a href="https://www.linkedin.com/in/romaryoricardo/" target="blank"> >> Curriculo << </a></h2>
 
-
-Se Estiver afim de conversar e fazer um networking me manda um e-mail para **romaryoricardo@gmail.com** ou da uma conferida nos [**contatos**](/tabs/contact)
+</div>
+<br>
+Caso queira me enviar uma mensagem, da conferida nos meus [**contatos**](/tabs/contact) e vamos fazer um networking de evolução.
