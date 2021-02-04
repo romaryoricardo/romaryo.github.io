@@ -1,7 +1,7 @@
 ---
 title: Desligando e Ligando máquinas na AWS automaticamente
 author: Romaryo Ricardo
-date: 2021-02-03 21:30:00 +0300
+date: 2021-02-03 23:30:00 +0300
 categories: [Blogging, "AWS"]
 tags: ["AWS"]
 toc: false
