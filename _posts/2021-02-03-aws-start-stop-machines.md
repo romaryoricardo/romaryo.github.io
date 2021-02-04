@@ -25,3 +25,9 @@ Aqui você vai encontrar assuntos relacionados a DevOps, Infra e Desenvolvimento
 
 Espero muito que o conteúdo te ajude a ir mais além na sua carreira e alcançar seus objetivos 🚀🚀
  -->
+
+Fala Pessoal,
+
+nesse post vamos falar de uma das forma de economizar $$$$ na AWS.
+
+Sabe aquelas máquinas utlizada para desenvolvimento e homologação, e durante a noite não está em uso?
