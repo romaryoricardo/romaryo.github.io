@@ -10,16 +10,16 @@ order: 5
  ![Desktop View](/assets/img/base/eusite.jpg){: width="180" class="right"}
 
 
- E vamos falar um pouco de mim ... 
+ E vamos falar um pouco sobre mim ... 
 
-Meu nome é Romaryo Ricardo, e sou apaixonado por tecnologia, sempre gostei de coisas inovadoras que ajudassem as pessoas, a partir dessa paixão comecei minha jornada estudando Redes de Computadores, aprendi bastante de infraestrutura e acabei me tornando um sysadmin louco pela telinha preta por linux.
+Meu nome é Romaryo Ricardo, e sou apaixonado por tecnologia, sempre gostei de coisas inovadoras que ajudassem as pessoas, a partir dessa paixão comecei minha jornada estudando Redes de Computadores, aprendi bastante sobre infraestrutura e acabei me tornando um sysadmin louco pela telinha preta por linux.
 
-Apesar de trabalhar com Infra, sempre gostei de Codar, achava muito bom criar scripts e automações, criar formas de fazer as coisas acontecerem da forma mais eficiente.
+Apesar de trabalhar com Infra, sempre gostei de Codar, achava muito bom usar a lógica para criar scripts e automações, criar formas de fazer as coisas acontecerem da forma mais rápida.
 
 Então foi ai que conheci a cultura DevOps, que casou bem com as minhas soft skills.
 
 Então resumindo ... <br>
-Hoje eu sou um **DevOps Engineer** que tenta todos os dias melhorar os processos procurando sempre soluções inovadoras.
+Hoje eu sou um **Engenheiro DevOps** que tenta todos os dias aprender algo novo.
 
 ---
 - 🎓 Graduado em redes de computadores.
@@ -33,4 +33,4 @@ Hoje eu sou um **DevOps Engineer** que tenta todos os dias melhorar os processos
 
 </div>
 <br>
-Caso queira me enviar uma mensagem, da conferida nos meus [**contatos**](/tabs/contact) e vamos fazer um networking de evolução.
+Caso queira me enviar uma mensagem, da conferida nos meus [**contatos**](/tabs/contact) e bora bater um papo sobre mudar o mundo com a TI.
