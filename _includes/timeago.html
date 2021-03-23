@@ -17,7 +17,7 @@
   {% assign post_year = include.date | date: "%Y" %}
 
   {% if post_year == this_year %}
-    {{ include.date | date: site.data.date_format.post.short }}
+    {{ include.date | date: site.data.date_format.post.long }}
   {% else %}
     {{ include.date | date: site.data.date_format.post.long }}
   {% endif %}
